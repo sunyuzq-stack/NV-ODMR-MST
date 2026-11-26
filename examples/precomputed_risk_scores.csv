@@ -1,0 +1,6 @@
+k,triplet_id,risk_residual,risk_domain,risk_combined,risk_rho,raw_residual
+200,example_1,0.10,0,0.20,0.20,0.90
+200,example_2,0.20,0,0.40,0.40,1.00
+200,example_3,0.30,0,0.80,0.80,1.10
+200,example_4,1.00,0,1.00,0.50,2.00
+200,example_5,0.50,0,0.60,0.60,1.30
